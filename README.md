@@ -16,7 +16,7 @@ Tutorial Flask template structure for project API.
     -
 
 - Packages
-    - Poatry
+    - Poetry
     - Flask     
 
 - Dev-packages
